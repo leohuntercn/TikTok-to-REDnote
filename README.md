@@ -20,6 +20,8 @@ This is a blog about how to switch from TikTok to REDnote (Xiaohongshu), a Chine
 
 [Similarities Between REDnote and TikTok’s Recommendation Algorithms](https://rednote.so/blog/similarities-between-REDnote-and-TikToks-recommendation-algorithms)
 
+[If You’re Not Getting a Verification Code from Rednote, Check This](https://rednote.so/blog/if-you-re-not-getting-a-verification-code-from-rednote-check-this)
+
 ## 💬 Discuss
 
 We put comments section on [Github Discussions](https://github.com/leohuntercn/TikTok-to-REDnote/discussions). Welcome to discuss!
