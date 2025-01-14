@@ -1,14 +1,16 @@
-![TikTok to REDnote](/public/static/images/logo.png)
+![TikTok to REDnote](/logo.png)
 
 # TikTok to REDnote (Xiaohongshu): Everything You Need to Know | A Survival Guide for TikTok Refugees
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Ftimlrxx)](https://x.com/leohunteren)
 
+## 🌐 Website
+
+**[https://rednote.so](https://rednote.so)**
+
 ## About
 
 This is a blog about how to switch from TikTok to REDnote (Xiaohongshu), a Chinese social media platform. It's a survival guide for TikTok refugees looking for a fresh start.
-
-HOMEPAGE: [https://rednote.so](https://rednote.so)
 
 ### Articles:
 
