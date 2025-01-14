@@ -1,4 +1,4 @@
-![TikTok to REDnote](/logo.png)
+![TikTok to REDnote](/logo.svg)
 
 # TikTok to REDnote (Xiaohongshu): Everything You Need to Know | A Survival Guide for TikTok Refugees
 
@@ -8,11 +8,11 @@
 
 **[https://rednote.so](https://rednote.so)**
 
-## About
+## 📖 About
 
 This is a blog about how to switch from TikTok to REDnote (Xiaohongshu), a Chinese social media platform. It's a survival guide for TikTok refugees looking for a fresh start.
 
-### Articles:
+### 📖 Articles:
 
 [How to change language to English on REDnote](https://rednote.so/blog/how-to-change-language-to-english-on-REDnote-a-guide-for-tiktok-refugees)
 
@@ -20,7 +20,7 @@ This is a blog about how to switch from TikTok to REDnote (Xiaohongshu), a Chine
 
 [Similarities Between REDnote and TikTok’s Recommendation Algorithms](https://rednote.so/blog/similarities-between-REDnote-and-TikToks-recommendation-algorithms)
 
-## Discuss
+## 💬 Discuss
 
 We put comments section on [Github Discussions](https://github.com/leohuntercn/TikTok-to-REDnote/discussions). Welcome to discuss!
 
